@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishLimbani;
 - 👀 I’m interested in learning different Technology;
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on twiter https://x.com/krish_limbani06
 - 📫 to reach me with this email -> krishlimbani01@gmail.com;
 - 😄 Pronouns: ...
